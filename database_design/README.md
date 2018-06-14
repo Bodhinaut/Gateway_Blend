@@ -31,7 +31,7 @@ This is the link to the source that the information was pulled from
 All tables can be JOINed or UNIONed to link together the perk, picture, explanation, and txt_source for
 each section. Each table has a corresponding PRIMARY KEY that links it with the proper row.
 
-__Not very familiar with SQL and utilizing databases as of current. Presently working on these skills with online course material.__ 
+_Not very familiar with SQL and utilizing databases as of current. Presently working on these skills with online course material._
 
 
 **AUTHOR: Kyle M. Shive**
