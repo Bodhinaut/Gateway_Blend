@@ -11,3 +11,6 @@
 _Further details within directories. Each directory has a more detailed README.md_
 
 ---
+
+**AUTHOR: Kyle M. Shive
+DATE: 6/14/2018**
