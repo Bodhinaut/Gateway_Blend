@@ -1,6 +1,8 @@
 ------------------------------------------------------------------------
 Algorithms Challenge
 ------------------------------------------------------------------------
+#### Python 3.6.5 :: Anaconda
+
 
 **CHALLENGE TITLE: Algorithms - algorithms_permutation**
 
