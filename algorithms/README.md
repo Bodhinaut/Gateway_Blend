@@ -2,9 +2,9 @@
 Algorithms Challenge
 ------------------------------------------------------------------------
 
-CHALLENGE TITLE: Algorithms - algorithms_permutation
+**CHALLENGE TITLE: Algorithms - algorithms_permutation**
 
-PURPOSE OF PROJECT:Write a Python script which prints all the permutations of a string in
+**PURPOSE OF PROJECT:** Write a Python script which prints all the permutations of a string in
 alphabetical order. We consider that digits < upper case letters <
 lower case letters. The sorting should be performed in ascending
 order.
@@ -12,9 +12,9 @@ Your program should accept a file as its first argument. The file
 contains input strings, one per line. Print to stdout the permutations of
 the string separated by comma, in alphabetical order.
 
-VERSION or DATE: 6/14/2018
+**VERSION or DATE:** 6/14/2018
 
-HOW TO START THIS PROJECT: Clone/download contents of algorithms folder. 
+**HOW TO START THIS PROJECT:** Clone/download contents of algorithms folder. 
 I coded the algorithms in Sublime text editor while runnning it in Git Bash. 
 When the algorithms_permutation.py file is open in an IDE or text editor of your choosing, simply call the permute_file function.
 
@@ -24,4 +24,4 @@ Simply call **permute_file(filename)** with your desired file to be read in. Fee
 
 ---
 
-AUTHORS: Kyle M. Shive
+**AUTHOR: Kyle M. Shive**
