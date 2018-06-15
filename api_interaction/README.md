@@ -19,4 +19,6 @@ a TODO created, and a TODO deleted
 
 ---
 
+_I apologize I am also still working on learning API usage._
+
 **AUTHOR: Kyle M. Shive**
