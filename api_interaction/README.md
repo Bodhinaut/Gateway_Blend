@@ -14,7 +14,7 @@ most recent TODOs, create a TODO, and delete a TODO given an ID.
 
 **VERSION or DATE:** 6/14/2018
 
-**HOW TO START THIS PROJECT:** Run script in IDE or text editor of choosing to see, 200 most recent TODOs taken from jsonplaceholder;
+**HOW TO START THIS PROJECT:** Run script in IDE or text editor of choosing to see 200 most recent TODOs taken from jsonplaceholder;
 a TODO created, and a TODO deleted
 
 ---
