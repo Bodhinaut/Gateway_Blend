@@ -1,12 +1,12 @@
 import requests
 
 # get 200 most recent TODOs
-URL = 'https://jsonplaceholder.typicode.com/todos' 
+URL = 'http://jsonplaceholder.typicode.com/todos' 
 
 # GET request
 r = requests.get(url = URL)
 # DELETE TODO
-r = requests.delete(url = 'https://jsonplaceholder.typicode.com/todos/delete')
+r = requests.delete(url = 'https://jsonplaceholder.typicode.com/posts/1')
 # CREATE TODO
 r = requests.post(url = URL, data = {'test' : 'test', 'userId': 201, 'id': 201, 'title': 'zen in every breath', 'completed': True})
 
